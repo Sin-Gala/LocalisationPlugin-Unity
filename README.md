@@ -69,5 +69,5 @@ This localization plugin was created based on scripts from:
 
 ## VERSIONS:
 v1.0 : Current version
-	- Simple localization system from a csv file
-	- Simple saving and settings systems to easily switch the language at run-time
+- Simple localization system from a csv file
+- Simple saving and settings systems to easily switch the language at run-time
