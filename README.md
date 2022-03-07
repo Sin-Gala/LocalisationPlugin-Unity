@@ -48,7 +48,7 @@
 - SaveFunctions
 	* Init(): Initialize the save system
 	* Save(string saveString): Save the saveString in a json file
-	* Load: Load a specific json file
+	* Load(): Load a specific json file
 	
 - SaveManager
 	* SaveDatas(): Save all the languages datas
@@ -56,7 +56,7 @@
 	* ResetDatas(): Reset all the languages datas
 
 - SettingsManager
-		* SetLanguageDropdown(int languageIndex): Set the language in the dropdown
+	* SetLanguageDropdown(int languageIndex): Set the language in the dropdown
 	
 	
 	
